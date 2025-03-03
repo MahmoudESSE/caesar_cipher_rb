@@ -1,6 +1,11 @@
-# Ceasar Cipher Ruby
+# Caesar Cipher Ruby
 
-A ceasar cipher implementation in ruby.
+A caesar cipher implementation in ruby.
+
+## Features
+
+Encrypt a string using caesar cipher using ascii code to replace each character 
+in the string with its shifted character. This program only uses right shift.
 
 ## License
 
