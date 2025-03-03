@@ -9,4 +9,4 @@ in the string with its shifted character. This program only uses right shift.
 
 ## License
 
-Licensed under [GPL-v3.0][./LICENSE]
+Licensed under [GPL-v3.0](./LICENSE)
